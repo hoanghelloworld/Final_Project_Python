@@ -8,6 +8,7 @@
 - Link notion :https://determined-parakeet-21a.notion.site/B-i-t-p-l-n-x-l-d-li-u-Python-1af8c187c3da41e7a838911bc65e0518?pvs=4
 
 In this report I use facebook_scraper, selenium and apify to crawl data:
+
 *Learn more here*:
 https://github.com/kevinzg/facebook-scraper
 
