@@ -9,7 +9,9 @@
 
 In this report I use facebook_scraper, selenium and apify to crawl data:
 
-*Learn more here*:
+
+ *Learn more here*:
+
 https://github.com/kevinzg/facebook-scraper
 
 https://docs.apify.com/academy/expert-scraping-with-apify/apify-api-and-client
