@@ -16,4 +16,4 @@ https://github.com/kevinzg/facebook-scraper
 
 https://docs.apify.com/academy/expert-scraping-with-apify/apify-api-and-client
 
-I divide it into two main parts, part I is data crawling and data processing (From I.1 to I.6) and part II is data processing (From II.1 to II.4)
+I divide it into two main parts, part I is data crawling and data processing (From I.1 to I.5) and part II is data analyze (From II.1 to II.4)
